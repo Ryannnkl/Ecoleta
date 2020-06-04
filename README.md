@@ -16,18 +16,18 @@
 
 # :mag: Sobre
 
-## O Ecoleta é um app do evento Next-Level-Week, que consiste em ajudar o meio ambiente!
+### O Ecoleta é um app do evento Next-Level-Week, que consiste em ajudar o meio ambiente!
 
 > ### O principal objetivo é por em uma aplicação os pontos de coleta de lixo que ficam na cidade assim, um usuario quando quiser reciclar no aplicativo vai mostar o ponto mais proximo e em que esse ponto trabalha reciclagem de oleo, vidro, papelão, etc...
 
 - um ponto de coleta cadastra no site pondo informações da localidade e do que ela trabalha.
 - um app no celular mostra esses pontos e o usuario pode alternar entre o que ele quer reciclar.
 
-## :: como executar na sua maquina?
+## :question: como executar na sua maquina?
 
 > ### server
 
-```
+```bash
 // entre na pasta do server
 $ cd server
 
