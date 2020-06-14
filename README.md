@@ -49,7 +49,7 @@
 ## MOBILE :heavy_check_mark:
 
 - aqui o usuario podera procurar pelos pontos de coleta pela sua região
-- #### feito com :heavy_check_mark:
+- #### feito com :wrench:
 
   - React-Native/EXPO
   - Template==Typescript
@@ -60,7 +60,7 @@
   <img alt="mobile app" src="./screenshots/home-mobile.png" width="300">
 </p>
 
-# Author
+# Autor
 
 | [<img src="https://avatars1.githubusercontent.com/u/48577990?v=4" width=115><br><sub>@Ryannnkl</sub>](https://github.com/Ryannnkl) |
 | :--------------------------------------------------------------------------------------------------------------------------------: |
